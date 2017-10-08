@@ -14,8 +14,8 @@ dependencies {
 }
 
 test{
-    include 'ArrayTask'
-    include 'SortingTask'
+    include 'tests.ArrayTask'
+    include 'tests.SortingTask'
 }
 
 jacocoTestReport {
