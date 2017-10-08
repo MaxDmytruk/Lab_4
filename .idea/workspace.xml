@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80629d4-2a31-4084-85b0-dd3c5e28da34" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayTask/MatrixDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="e#522#567#0" expanded="false" />
+                <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
+                <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/SortingTask/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
+                <element signature="method#sort#0;class#SortTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayDemoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="17" />
+              <folding>
+                <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="class#3781:3819" expanded="false" />
+                <element signature="initializer##0;class#3781:3819" expanded="false" />
+                <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+                <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelperTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ArrayTask/HelperTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
+                <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixDemoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding>
+                <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
+                <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sca</find>
+      <find>rowsAllEven</find>
+      <find>static</find>
+      <find>private</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>public</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/MatrixDemo.java" />
+        <option value="$PROJECT_DIR$/src/Helper.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/Sort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/CombSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/CoctailSort.java" />
+        <option value="$PROJECT_DIR$/src/SortingTask/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/TestHelper.java" />
+        <option value="$PROJECT_DIR$/tests/SortingTask/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/tests/SortingTask/TestSortHelper.java" />
+        <option value="$PROJECT_DIR$/tests/SortingTask/SortTest.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/appveyor.yml" />
+        <option value="$PROJECT_DIR$/src/ArrayTask/Helper.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest1.java" />
+        <option value="$PROJECT_DIR$/src/ArrayTask/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest1.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/ArrayTask/MatrixDemo.java" />
+        <option value="$PROJECT_DIR$/tests/ArrayTask/HelperTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="15" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab_4" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="SortingTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Study/СТП/Lab_4/tests/ArrayTask/MatrixDemoTest.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ArrayTask" />
+      <recent name="SortingTask" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ArrayTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lab_4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ArrayTask" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTask.ArrayDemoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ArrayTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lab_4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ArrayTask" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTask.HelperTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Lab_4" />
+      <envs />
+    </configuration>
+    <configuration name="MatrixDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ArrayTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lab_4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ArrayTask" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTask.MatrixDemoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MatrixDemoTest.getMonotonuosRows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ArrayTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lab_4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ArrayTask" />
+      <option name="MAIN_CLASS_NAME" value="ArrayTask.MatrixDemoTest" />
+      <option name="METHOD_NAME" value="getMonotonuosRows" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SortingTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Lab_4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="SortingTask" />
+      <option name="MAIN_CLASS_NAME" value="SortingTask.SortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ArrayDemoTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HelperTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MatrixDemoTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SortTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SortTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HelperTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayDemoTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MatrixDemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80629d4-2a31-4084-85b0-dd3c5e28da34" name="Default" comment="" />
+      <created>1506866873896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506866873896</updated>
+      <workItem from="1506866877522" duration="22813000" />
+      <workItem from="1506959196805" duration="12750000" />
+      <workItem from="1507109449313" duration="1168000" />
+      <workItem from="1507467267347" duration="3354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayDemoTest - 2017.10.08 at 16h 27m 53s.xml">
+      <configuration name="ArrayDemoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayDemoTest - 2017.10.08 at 17h 04m 43s.xml">
+      <configuration name="ArrayDemoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelperTest - 2017.10.08 at 16h 28m 04s.xml">
+      <configuration name="HelperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelperTest - 2017.10.08 at 17h 04m 46s.xml">
+      <configuration name="HelperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixDemoTest - 2017.10.08 at 16h 28m 13s.xml">
+      <configuration name="MatrixDemoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixDemoTest - 2017.10.08 at 17h 04m 38s.xml">
+      <configuration name="MatrixDemoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixDemoTest_isMonotonousSequence - 2017.10.03 at 10h 37m 04s.xml">
+      <configuration name="MatrixDemoTest.isMonotonousSequence" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.04 at 12h 35m 25s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.08 at 16h 27m 44s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.08 at 17h 04m 55s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/MatrixDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="e#522#567#0" expanded="false" />
+            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
+            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="class#3781:3819" expanded="false" />
+            <element signature="initializer##0;class#3781:3819" expanded="false" />
+            <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/HelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
+            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/MatrixDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="e#522#567#0" expanded="false" />
+            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
+            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest1.java" />
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/HelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
+            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/TestSortHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getIntInput#0;class#Helper#0" expanded="false" />
+            <element signature="method#showArray#0;class#Helper#0" expanded="false" />
+            <element signature="method#showMatrix#0;class#Helper#0" expanded="false" />
+            <element signature="method#cloneArray#0;class#Helper#0" expanded="false" />
+            <element signature="method#generateArray#0;class#Helper#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/TestHelper.java" />
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/BubbleSortTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="method#sort#0;class#BubbleSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/CoctailSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="method#sort#0;class#CoctailSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/CombSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="method#sort#0;class#CombSort#0" expanded="false" />
+            <element signature="method#getNextGap#0;class#CombSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="method#sort#0;class#HeapSort#0" expanded="false" />
+            <element signature="method#makeHeap#0;class#HeapSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingTask/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="method#quickSort#0;class#QuickSort#0" expanded="false" />
+            <element signature="method#getMdeiana#0;class#QuickSort#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appveyor.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getIntInput#0;class#Helper#0" expanded="false" />
+            <element signature="method#showArray#0;class#Helper#0" expanded="false" />
+            <element signature="method#showMatrix#0;class#Helper#0" expanded="false" />
+            <element signature="method#cloneArray#0;class#Helper#0" expanded="false" />
+            <element signature="method#generateArray#0;class#Helper#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="222" column="13" lean-forward="true" selection-start-line="222" selection-start-column="13" selection-end-line="222" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayTask/MatrixDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="method#MatrixDemo#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#init#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="e#522#567#0" expanded="false" />
+            <element signature="method#getResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#outputResult#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemo#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/HelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="method#cloneArray#0;class#HelperTest#0" expanded="false" />
+            <element signature="method#generateArray#0;class#HelperTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/TestSortHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/MatrixDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="method#getMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMatrixOrder#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#createMonotonousMatrix#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getAllEvenRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#intListToArray#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isAllItemsEven#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMonotonuosRows#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#isMonotonousSequence#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfRow#0;class#MatrixDemoTest#0" expanded="false" />
+            <element signature="method#getMaxInRow#0;class#MatrixDemoTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArrayTask/ArrayDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <element signature="method#getArrayLength#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getArythmeticMeanOfPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#isPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#isMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfMinNumAndDigits#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimumPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimum#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getNumberDigits#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="class#3781:3819" expanded="false" />
+            <element signature="initializer##0;class#3781:3819" expanded="false" />
+            <element signature="method#getMinNegative#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMinimumPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPositivePaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getCountOfItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getItemsMultipleFive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumPairedOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getPaired#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getItemsOnOddPlaces#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getSumOfSecondAndMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+            <element signature="method#getMostPositive#0;class#ArrayDemoTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SortingTask/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="method#getArray#0;class#SortTest#0" expanded="false" />
+            <element signature="method#sort#0;class#SortTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
