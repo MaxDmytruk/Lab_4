@@ -5,6 +5,14 @@ apply plugin: 'jacoco'
 
 sourceCompatibility = 1.8
 
+sourceSets {
+    test {
+        java {
+            srcDir 'test'
+        }
+    }
+}
+
 repositories {
     mavenCentral()
 }
